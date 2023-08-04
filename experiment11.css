@@ -1,0 +1,41 @@
+body{
+    background-color:yellow;
+}
+table{
+    border-color: red;
+}
+#Day,#Monday,#Tuesday,#Wednesday,#Thursday,#Friday,#Saturday{
+    color: green;
+    background-color: black;
+}
+#Biology
+{
+    background-color: aqua;
+}
+#M4
+{
+    background-color: rebeccapurple;
+}
+#DAA
+{
+    background-color: red;
+}
+#lab
+{
+    background-color: chocolate;
+}
+#kannada
+{
+    background-color:blue;
+}
+#free
+{
+    background-color: gray;
+}
+#mces
+{
+    background-color: blanchedalmond;
+}
+#lunch{
+    background-color: chartreuse;
+}
